@@ -23,7 +23,7 @@ set(RESOURCE icons/ressources.qrc)
 qt5_add_resources(RESOURCE_ADDED ${RESOURCE})
 
 #Icons app
-set (ICON_APP icons/app_icons.rc)
+set (ICON_APP icons/app_icon.rc)
 
 set (MAIN src/main.cpp)
 
