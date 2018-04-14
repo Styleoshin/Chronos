@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icons">
+      <file>bookmark_no.png</file>
+      <file>bookmark_yes.png</file>
+      <file>download_delete.png</file>
+      <file>download_empty.png</file>
+      <file>download_pause.png</file>
+      <file>download_play.png</file>
+      <file>file_delete.png</file>
+      <file>file_downloading_stop.png</file>
+      <file>menu_new_download.png</file>
+      <file>menu_new_history.png</file>
+      <file>menu_new_option.png</file>
+      <file>menu_new_tab.png</file>
+      <file>menu_new_window.png</file>
+      <file>next_page.png</file>
+      <file>previous_page.png</file>
+      <file>reload_page.png</file>
+      <file>search_word.png</file>
+      <file>zoom.png</file>
+      <file>zoom_out.png</file>
+      <file>Chronos.ico</file>
+    </qresource>
+</RCC>
