@@ -17,8 +17,7 @@ set (HEADERS
     )
 
 QT5_WRAP_CPP(HEADERS_MOC ${HEADERS})
-QT5_ADD_RESOURCES(RCC ${RESOURCE})
 
-add_library(source ${SOURCES} ${HEADERS_MOC} ${RCC})
+add_library(source ${SOURCES} ${HEADERS_MOC})
 
 target_link_libraries(source)
